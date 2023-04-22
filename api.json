@@ -258,7 +258,7 @@
 
   
     {
-       ,
+       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
       
         "sum_one": "до 15 000",
@@ -318,7 +318,7 @@
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
        
         "sum_one": "до 30 000 руб",
-       "days_info": "до 180 дней",
+     
         "percent": "0%",
         "url": "https://trkleads.ru/click/7f62d7c4f6ebda33e5152f4fc28ed151?aff_sub1=unicor"
     }
